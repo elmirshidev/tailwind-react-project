@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tailwind-react-project/static/css/main.7822164c.css",
+    "main.js": "/tailwind-react-project/static/js/main.1d0872a0.js",
+    "static/media/main-bg.jpg": "/tailwind-react-project/static/media/main-bg.55385c91823e29ff6916.jpg",
+    "static/media/skills-bg.png": "/tailwind-react-project/static/media/skills-bg.cc1273af450504afe755.png",
+    "static/media/astronot2.png": "/tailwind-react-project/static/media/astronot2.b42be4cff9123f7fe6b8.png",
+    "static/media/react.jpg": "/tailwind-react-project/static/media/react.4604254bca9dec726635.jpg",
+    "static/media/astronot1.png": "/tailwind-react-project/static/media/astronot1.467feeceb9e216ba54a7.png",
+    "static/media/project1.png": "/tailwind-react-project/static/media/project1.d593db3f12901bc685c2.png",
+    "static/media/project2.png": "/tailwind-react-project/static/media/project2.2e52097c417f9f1134b0.png",
+    "static/media/project3.png": "/tailwind-react-project/static/media/project3.675b30d2f975a1bc1d09.png",
+    "static/media/tailwind.png": "/tailwind-react-project/static/media/tailwind.7e6000c47292cc29f8cb.png",
+    "static/media/contact-img.svg": "/tailwind-react-project/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/skill-bar.svg": "/tailwind-react-project/static/media/skill-bar.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/slick.svg": "/tailwind-react-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tailwind-react-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tailwind-react-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tailwind-react-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tailwind-react-project/index.html",
+    "main.7822164c.css.map": "/tailwind-react-project/static/css/main.7822164c.css.map",
+    "main.1d0872a0.js.map": "/tailwind-react-project/static/js/main.1d0872a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7822164c.css",
+    "static/js/main.1d0872a0.js"
+  ]
+}
